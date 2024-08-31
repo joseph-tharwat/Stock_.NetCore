@@ -1,0 +1,23 @@
+﻿@using StockTrading.Models
+
+@model List<Category>
+
+
+@{
+    ViewData["Title"] = "All Categories";
+}
+
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<body>
+    <div>
+        @await Component.InvokeAsync("AllCategory")
+    </div>
+</body>
+</html>
+
+@section ContentTitle
+{
+    <div class="container" >All Categories</div>
+}

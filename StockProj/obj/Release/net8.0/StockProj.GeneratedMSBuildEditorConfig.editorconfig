@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StockProj
+build_property.RootNamespace = StockProj
+build_property.ProjectDir = D:\Programe_Project\dotNet\StockProj\StockProj\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Programe_Project\dotNet\StockProj\StockProj
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/admin/CategoryDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cQ2F0ZWdvcnlEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/admin/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/admin/CreateItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cQ3JlYXRlSXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/admin/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cRWRpdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/admin/ItemsDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cSXRlbXNEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Home/CommonError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21tb25FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Shared/Components/AllCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWxsQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6qvfwdzgmy
