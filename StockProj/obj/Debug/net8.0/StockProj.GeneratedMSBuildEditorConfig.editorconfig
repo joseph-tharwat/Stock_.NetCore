@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Programe_Project\dotNet\StockProj\StockProj
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Account/PartialLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQYXJ0aWFsTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programe_Project/dotNet/StockProj/StockProj/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Programe_Project/dotNet/StockProj/StockProj/Views/admin/CategoryDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cQ2F0ZWdvcnlEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

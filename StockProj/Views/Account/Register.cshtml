@@ -1,0 +1,25 @@
+﻿ @model AccountModel
+
+@{
+    ViewData["Title"] = "Register Page";
+}
+
+
+<!DOCTYPE html>
+<html>
+<body>
+    <div>
+        @using (Html.BeginForm("Register", "Account", FormMethod.Post))
+        {
+
+            @Html.ValidationSummary()
+
+            @await Html.PartialAsync("PartialLogin", Model)
+            <div>@ViewBag.Msg</div>
+
+            <button type="submit" class="btn-primary">Register</button>
+        }
+    </div>
+
+</body>
+</html>

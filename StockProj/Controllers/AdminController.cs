@@ -23,28 +23,6 @@ public class AdminController : Controller
         _logger = logger;
     }
 
-    //login page
-    //[Authorize(Roles = "Admin")]
-    //public IActionResult Index()
-    //{
-    //    AdminLogin temp = new AdminLogin();
-    //    return View(temp);
-    //}
-
-    //[HttpPost]
-    //[Authorize(Roles = "Admin")]
-    //public ActionResult Login(AdminLogin adminInfo)
-    //{
-    //    adminServices adminServ = new adminServices();
-    //    bool status = adminServ.Login(adminInfo.UserName, adminInfo.Password);
-    //    if (status == true)
-    //    {
-    //        return View("Dashboard");
-    //    }
-    //    ViewBag.Msg = "error in username or password";
-    //    return View("Index", adminInfo);
-    //}
-
     [Route("GetAllItems")]
     //[ServiceFilter(typeof(executionTimeFilter))]
     public ActionResult AllItemsDashboard(int CatId = -1)
@@ -103,7 +81,7 @@ public class AdminController : Controller
     }
 
     [HttpPost]
-    //[Authorize(Roles = "Admin")]
+    [Authorize]
     public ActionResult CreateItem(ItemModel ItemInfo)
     {
         bool status = ItemServ.Create(ItemInfo.Name, ItemInfo.Description, ItemInfo.PhotoFile, ItemInfo.Price, ItemInfo.CategoryId);
